@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_TodoApp/static/css/main.e4966ec6.css",
+    "main.js": "/React_TodoApp/static/js/main.7670a181.js",
+    "static/js/787.2843ca88.chunk.js": "/React_TodoApp/static/js/787.2843ca88.chunk.js",
+    "index.html": "/React_TodoApp/index.html",
+    "main.e4966ec6.css.map": "/React_TodoApp/static/css/main.e4966ec6.css.map",
+    "main.7670a181.js.map": "/React_TodoApp/static/js/main.7670a181.js.map",
+    "787.2843ca88.chunk.js.map": "/React_TodoApp/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4966ec6.css",
+    "static/js/main.7670a181.js"
+  ]
+}
